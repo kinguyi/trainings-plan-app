@@ -4,11 +4,12 @@ import BodyPartList from "./BodyPartList";
 import Dashboard from "./Dashboard";
 import ExerciseList from "./ExerciseList";
 import TrainingView from "./TrainingView";
+import Login from "./Login";
+import Registration from "./Registration";
 
 function App() {
   return (
     <div>
-    <h1>Wähle eine Muskelgruppe:</h1>
     <TrainingView/>
     <Navbar/>
     </div>

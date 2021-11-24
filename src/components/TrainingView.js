@@ -18,7 +18,7 @@ const TrainingView = () =>
        
 
         <h1>Deadlift</h1>
-        <img src="../../img/barbell.jpeg" alt=""/>
+        <img src="./../../img/barbell.jpeg" alt=""/>
 
         <div className="Satz">
             <p>Satz 1</p>
