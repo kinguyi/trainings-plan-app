@@ -10,7 +10,7 @@ import Registration from "./Registration";
 function App() {
   return (
     <div>
-    <TrainingView/>
+    <Dashboard/>
     <Navbar/>
     </div>
     
